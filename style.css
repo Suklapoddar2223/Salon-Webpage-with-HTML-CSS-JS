@@ -188,8 +188,8 @@ section{
 .about .row .content p{
     font-size: 1.6rem;
     color:#444;
-    padding:1rem 0;
-    line-height: 1.8;
+    padding:0.5rem 0;
+    line-height: 1.5;
 }
 
 .about .content .icons-container{
@@ -669,7 +669,9 @@ section{
   .footer .credit span {
     color: var(--primary-color);
   }
-
+  
+  
+  
 
 @media (max-width:991px){
 
